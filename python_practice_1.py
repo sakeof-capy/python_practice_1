@@ -1,0 +1,1 @@
+print("Ruslan Zymovets, group 5")
